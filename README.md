@@ -1,7 +1,7 @@
 <p align="left"><img src="https://komarev.com/ghpvc/?username=geranielmotta" alt="geranielmotta" /></p>
 
 
-<h1 align = "justify"> Olá <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, seja bem-vindo(a)!</h1>
+<h1 align = "justify"> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Olá, seja bem-vindo(a)!</h1>
 <p align = "justify">Desenvolvedor Front-end, apaixonado por café, React, React Native e TypeScript.Fique a vontade para entrar em contado ou navegar/clonar os projetos e utilizar para seus estudos! </p>
 
 Atualmente trabalho na [Marlabs + Monitora](https://www.monitoratec.com.br/pt)
