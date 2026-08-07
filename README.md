@@ -6,8 +6,6 @@
 
 Atualmente trabalho na [Marlabs](https://www.marlabs.com/pt-br/)
 
-Atualmente estou estudando Node JS com integrações com Gemini IA.
-
 
 [![Linkedin Badge](https://img.shields.io/badge/-geranielmotta-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/geraniel-motta/)](https://www.linkedin.com/in/geraniel-motta/)
 [![Instagram Badge](https://img.shields.io/badge/-geranielmotta-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/geranielmotta/)](https://www.instagram.com/geranielmotta/)
